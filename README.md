@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sahil Vats
+# 👋 Hi, I'm Sahil 
 
 🚀 Full Stack Developer | Python & Django | JavaScript | SQL  
 🎓 MCA (Computer Science) | Passionate about building scalable web applications and learning AI/ML systems
